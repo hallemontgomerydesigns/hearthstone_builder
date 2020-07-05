@@ -1,0 +1,27 @@
+How to Build a CLI Gem
+
+1. Plan your gem, imagine your interface
+Start with the project structure - google (Gem)
+Start with the entry point - file name
+Force that to build the CLI interface
+stub out the interface 
+start making things real
+discover objects
+program
+
+
+- a command line interface for building a simple 1 type deck
+
+
+1) "Welcome #{name}! Would you like to get started building a Hearthstone Deck?" (y/n)?: 
+
+y -Shows a list of cards and gives instructions with input choice 
+n- program exits "Goobye Adventurer!"
+
+2) Shows a List of Cards - "Which card would you like to know more about?" (1-20):
+
+    - shows the information for that card*
+    -How do I paginate in CLI? -Ask during review
+
+3) Selection Shows Info from card
+    -choose what information I want to scrape from API

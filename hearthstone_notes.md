@@ -25,3 +25,5 @@ n- program exits "Goobye Adventurer!"
 
 3) Selection Shows Info from card
     -choose what information I want to scrape from API
+
+    
